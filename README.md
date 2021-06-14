@@ -16,6 +16,7 @@ A mini e-commerce application built with Rails 4.2 for purposes of learning Rail
 * Capybara (Poltergeist, PhantomJS)
 
 ## 🎥 Demo
+![](https://github.com/ruowent/jungle/blob/master/public/image/jungle.gif?raw=true)
 
 ## 🛠 Additional Steps for Apple M1 Machines
 
